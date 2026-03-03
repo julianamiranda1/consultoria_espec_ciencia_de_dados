@@ -1,2 +1,2 @@
-# consultoria_espec_ciencia_de_dados
+# Consultoria Especializada Ciência de Dados
 Repositório de projetos da matéria de Consultoria Especializada de Ciência de Dados
